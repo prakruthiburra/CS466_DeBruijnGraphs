@@ -3,6 +3,9 @@ Course project to analyse DeBruijn graphs for Enterobacteria phage lambda genome
 
 PLEASE NOTE:
 Parameters are currently hardcoded in the script. The code has not been modularised.
+Code to generate de Bruijn graphs has been taken from http://nbviewer.jupyter.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_deBruijn.ipynb 
+Genome source - https://www.ncbi.nlm.nih.gov/nuccore/215104 
+
 
 1. cleaning.py
 This script takes a genome file with each line of the form 
