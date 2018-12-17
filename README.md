@@ -6,7 +6,11 @@ Parameters are currently hardcoded in the script. The code has not been modulari
 
 cleaning.py
 This script takes a genome file with each line of the form 
+
+
 1201 caaaaaacta ccgtgaaaag tcggtggatg tggcgggtta tgatgaactt gctgcttttg
+
+
 It generates a file with the genome stored as a continuous string
 
 gen_reads.py
