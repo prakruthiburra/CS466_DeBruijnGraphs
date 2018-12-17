@@ -2,7 +2,7 @@
 Course project to analyse DeBruijn graphs for Enterobacteria phage lambda genome
 
 PLEASE NOTE:
-Parameters are currently hardcoded in the script.
+Parameters are currently hardcoded in the script. The code has not been modularised.
 
 cleaning.py
 This script takes a genome file with each line of the form 
